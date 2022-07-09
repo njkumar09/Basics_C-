@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @njkumar09
-- 👀 I’m interested in learning ios developement and using python to build web based applications and data analysis
-- 🌱 I’m currently learning python , Cs50 and ios development
+- 👀 I’m interested in learning new programming languages as a hobby
+- 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me neeraj.roja@gmail.com
 
